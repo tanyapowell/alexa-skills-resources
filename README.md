@@ -1,6 +1,8 @@
 # Alexa Skills Resources
 Resources to help you build an Alexa skill
 
+![](https://images-na.ssl-images-amazon.com/images/G/01/mobile-apps/dex/alexa/alexa-skills-kit/echo/echo_feature._CB526147196_.png)
+
 ## Cloud Hosting
 - **[AWS Lambda](https://aws.amazon.com/lambda/)**
 
